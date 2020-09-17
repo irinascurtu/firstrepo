@@ -14,6 +14,8 @@ namespace Strings
 
             string result = myString + mickey;
 
+
+
             Stopwatch stopWatch1 = new Stopwatch();
             stopWatch1.Start();
             //for (int i = 0; i < 100000; i++)
